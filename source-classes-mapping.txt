@@ -1,0 +1,13 @@
+com/example/adinsta/LoginActivity.java
+ com.example.adinsta.LoginActivity
+ com.example.adinsta.LoginActivity$1
+ com.example.adinsta.LoginActivity$2
+com/example/adinsta/MainActivity.java
+ com.example.adinsta.MainActivity
+ com.example.adinsta.MainActivity$1
+com/example/adinsta/ParseApplication.java
+ com.example.adinsta.ParseApplication
+com/example/adinsta/BuildConfig.java
+ com.example.adinsta.BuildConfig
+com/example/adinsta/Post.java
+ com.example.adinsta.Post
